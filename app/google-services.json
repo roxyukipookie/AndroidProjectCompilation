@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699983237117",
+    "project_id": "benevole-5f6b0",
+    "storage_bucket": "benevole-5f6b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699983237117:android:7889b446912683354c9394",
+        "android_client_info": {
+          "package_name": "com.example.benevole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBel1TjlOHMYbzV5EQ6rSV4znS1RjwkDgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
